@@ -19,7 +19,7 @@ Survival-reproduction trade-offs are well studied in altricial birds, where offs
 ├── README.md                                                 <- The top-level README including general project descriptions
 |
 ├── Behavioral data
-│   ├──daily_landcover_brood_2014-2025.csv                    <- Behavioral data ready for modeling
+│   ├──daily_landcover_brood_2014-2025_FINAL.csv              <- Behavioral data ready for modeling
 |
 ├── Survival data
 │   ├── brood_survival_ref_2014_2025_FINAL.csv                <- Survival data ready for modeling
