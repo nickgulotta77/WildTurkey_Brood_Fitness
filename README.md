@@ -16,19 +16,19 @@ Survival-reproduction trade-offs are well studied in altricial birds, where offs
 ## General Project File Structure
 
 ```
-├── README.md                                                                           <- The top-level README including general project descriptions
+├── README.md                                                 <- The top-level README including general project descriptions
 |
 ├── Behavioral data
-│   ├──daily_landcover_brood_2014-2025.csv                                              <- Behavioral data ready for modeling
+│   ├──daily_landcover_brood_2014-2025.csv                    <- Behavioral data ready for modeling
 |
 ├── Survival data
-│   ├── brood_survival_ref_2014_2025_FINAL.csv                                          <- Survival data ready for modeling
+│   ├── brood_survival_ref_2014_2025_FINAL.csv                <- Survival data ready for modeling
 |
 ├── Rds files
-│   ├── hardwood_daily_ARFINAL.rds                                                      <- Fitted model file for hardwood landcover
-│   ├── Open_daily_ARFINAL.rds                                                          <- Fitted model file for open landcover
-│   ├── pine_daily_ARFINAL.rds                                                          <- Fitted model file for pine landcover
+│   ├── hardwood_daily_ARFINAL.rds                            <- Fitted model file for hardwood landcover
+│   ├── Open_daily_ARFINAL.rds                                <- Fitted model file for open landcover
+│   ├── pine_daily_ARFINAL.rds                                <- Fitted model file for pine landcover
 |
 ├── R script files
-│   ├── ACF_plots.r                                                                     <- script to produce ACF plots
-│   ├── Univariate_hardwood_pine_open_fitness_.r                                        <- Script to produce main results and figures
+│   ├── ACF_plots.r                                           <- script to produce ACF plots
+│   ├── Univariate_hardwood_pine_open_fitness_.r              <- Script to produce main results and figures
