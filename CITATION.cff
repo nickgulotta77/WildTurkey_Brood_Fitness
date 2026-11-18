@@ -1,0 +1,17 @@
+
+cff-version: 1.2.0
+message: "Please cite this research code and data using the Zenodo DOI."
+type: software
+title: "Fitness consequences of risk-taking by brooding female wild turkeys in the southeastern United States"
+version: 1.0.0
+authors:
+  - given-names: Kevin J.
+    family-names: Kinser-Mcbee
+  - given-names: Nick A.
+    family-names: Gulotta
+keywords:
+  - behavioral ecology
+  - wild turkey
+  - risk-taking
+  - survival
+  - reproduction
